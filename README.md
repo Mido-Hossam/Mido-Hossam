@@ -1,0 +1,4 @@
+- 👋 Hi, Its Mido
+- 👀 I’m interested in programming games, discord bots and applications
+- 🌱 I’m currently learning python
+- 🤍 Hope you have good day
